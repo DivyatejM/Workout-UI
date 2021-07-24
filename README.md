@@ -7,3 +7,8 @@ It is a simple Workout Application Interface which has 4 pages built on the Ipho
 ✔Fourth Page - Cumulative Stats + Achievements 🎖.
 
 I chose to utilize only 2 colours to keep it simple and elegant.
+
+
+
+
+Link to the Figma Project:https://www.figma.com/file/VxIcD5Vgoc0VKK3xSRNejY/Workout?node-id=0%3A1
